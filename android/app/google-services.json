@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861119538803",
+    "firebase_url": "https://places-information.firebaseio.com",
+    "project_id": "places-information",
+    "storage_bucket": "places-information.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861119538803:android:0e01d5a13eb2818bda2c06",
+        "android_client_info": {
+          "package_name": "com.example.project_places_api_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861119538803-vseida2at9j1p70f9scobmltudp345nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ9vKobFWcGX4drLZtAHTNes4PC1dsuvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861119538803-vseida2at9j1p70f9scobmltudp345nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
